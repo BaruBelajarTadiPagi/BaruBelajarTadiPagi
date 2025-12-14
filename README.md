@@ -6,14 +6,7 @@
 
 <p align="center">Back End Developer & Fullstack Developer</p>
 
-<style>
-  table, th, td 
-  {
-    border: none;
-  }
-</style>
-
-<table>
+<table style="th, td = none;">
   <thead>
     <tr>
       <td>ini kolom judul 1</td>
