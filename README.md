@@ -4,9 +4,9 @@
   </ul>
 </div>
 
+<h3 align="center">Back End Developer & Fullstack Developer 💻 </h3>
 <p align="center">
-  <h3 align="center">Back End Developer & Fullstack Developer 💻 </h3> <br> 
-  with experience in building web applications using **Laravel**, **React JS**, and **MySQL**. Familiar with real-world system integration, database design, and realtime features.
+  with experience in building web applications using Laravel, React JS, and MySQL. Familiar with real-world system integration, database design, and realtime features.
 </p>
 
 <div id="user-content-toc">
@@ -31,8 +31,6 @@
   <tr><td>Basic Android Development</td></tr>
   <tr><td>Basic Hardware & Software Troubleshooting</td></tr>
 </table>
-
-<hr>
 
 ## 🏢 Experience
 
@@ -74,3 +72,31 @@
 
 📫 **Let’s collaborate!**  
 Feel free to explore my repositories 🚀
+
+<hr>
+<table style="border-collapse: collapse; width:100%;">
+  <tr>
+    <!-- CORE SKILLS -->
+    <td valign="top" width="50%" style="padding-right:20px;">
+      <h3>🧠 Core Skills</h3>
+      <ul>
+        <li>Fullstack Web Development (Laravel & React JS)</li>
+        <li>REST API & Basic Realtime (WebSocket)</li>
+        <li>Database Design (ERD & Normalization)</li>
+        <li>System Analysis & Flowchart</li>
+        <li>Data Analysis from Existing Systems</li>
+        <li>Basic Android Development</li>
+        <li>Basic Hardware & Software Troubleshooting</li>
+      </ul>
+    </td>
+
+    <!-- TECH STACK -->
+    <td valign="top" width="50%">
+      <h3>🚀 Tech Stack</h3>
+      <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,php,kotlin,laravel,androidstudio,mysql,react,postman,figma,xd,github,gitlab,vscode&perline=6" />
+</p>
+    </td>
+  </tr>
+</table>
+
