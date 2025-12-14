@@ -14,11 +14,17 @@
       <summary><h2 style="display: inline-block">Technologies & Tools 👨🏻‍💻</h2></summary>
     </ul>
 </div>
-<table style="border-collapse: collapse; width:100%;">
+<table align="center" style="border-collapse: collapse; width:100%;">
   <tr>
-    <!-- CORE SKILLS -->
-    <td valign="top" width="50%" style="padding-right:20px;">
-      <h3>🧠 Core Skills</h3>
+    <td valign="top" width="50%" style="padding-right:10px;">
+      <h3>🚀 Tech Stack</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,php,kotlin,laravel,androidstudio,mysql,react,postman,figma,xd,github,gitlab,vscode&perline=6" />
+      </p>
+    </td>
+    
+  <td valign="top" width="50%">
+    <h3>🧠 Core Skills</h3>
       <ul>
         <li>Fullstack Web Development (Laravel & React JS)</li>
         <li>REST API & Basic Realtime (WebSocket)</li>
@@ -28,14 +34,7 @@
         <li>Basic Android Development</li>
         <li>Basic Hardware & Software Troubleshooting</li>
       </ul>
-    </td>
-
-    <!-- TECH STACK -->
-  <td valign="top" width="50%">
-    <h3>🚀 Tech Stack</h3>
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,php,kotlin,laravel,androidstudio,mysql,react,postman,figma,xd,github,gitlab,vscode&perline=6" />
-    </p>
+  </td>
   </tr>
 </table>
 <p align="center">
