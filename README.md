@@ -94,7 +94,7 @@ Feel free to explore my repositories 🚀
   <td valign="top" width="50%">
     <h3>🚀 Tech Stack</h3>
     <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graphusername=BaruBelajarTadiPagi&radius=16&theme=react&area=true&order=5" height="250" width="600" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaruBelajarTadiPagi&radius=16&theme=react&area=true&order=5" height="250" width="600" alt="activity-graph graph"  />
     </td>
   </tr>
 </table>
