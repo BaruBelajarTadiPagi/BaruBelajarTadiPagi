@@ -4,7 +4,9 @@
   </ul>
 </div>
 
-<p align="center">Back End Developer & Fullstack Developer 💻 with experience in building web applications using **Laravel**, **React JS**, and **MySQL**. Familiar with real-world system integration, database design, and realtime features.
+<p align="center">
+  <h3>Back End Developer & Fullstack Developer 💻 </h3> <br> 
+  with experience in building web applications using **Laravel**, **React JS**, and **MySQL**. Familiar with real-world system integration, database design, and realtime features.
 </p>
 
 <div id="user-content-toc">
