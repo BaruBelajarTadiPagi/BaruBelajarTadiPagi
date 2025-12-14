@@ -43,6 +43,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaruBelajarTadiPagi&radius=16&theme=react&area=true&order=5" height="250" width="600" alt="activity-graph graph" />
 </p>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaruBelajarTadiPagi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=BaruBelajarTadiPagi&theme=holi-theme&locale=ms_ID&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
 ## 🎯 Fokus Karier
 - Pengembangan Aplikasi Web
 - Perancangan Sistem & Database
