@@ -6,17 +6,10 @@
 
 <p align="center">Back End Developer & Fullstack Developer</p>
 
-<div id="user-content-toc" class="container">
-  <div class="float-left col-6"
+<div id="user-content-toc">
     <ul align="center">
       <summary><h2 style="display: inline-block">Technologies & Tools 👨🏻‍💻</h2></summary>
     </ul>
-  </div>
-  <div class="float-right col-6"
-    <ul align="center">
-      <summary><h2 style="display: inline-block">Technologies & Tools 👨🏻‍💻</h2></summary>
-    </ul>
-  </div>  
 </div>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,php,kotlin,laravel,androidstudio,mysql,react,postman,figma,xd,github,gitlab,vscode&perline=6" />
