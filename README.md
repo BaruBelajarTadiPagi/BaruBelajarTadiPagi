@@ -91,11 +91,10 @@ Feel free to explore my repositories 🚀
     </td>
 
     <!-- TECH STACK -->
-    <td valign="top" width="50%">
-      <h3>🚀 Tech Stack</h3>
-      <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,php,kotlin,laravel,androidstudio,mysql,react,postman,figma,xd,github,gitlab,vscode&perline=6" />
-</p>
+  <td valign="top" width="50%">
+    <h3>🚀 Tech Stack</h3>
+    <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graphusername=BaruBelajarTadiPagi&radius=16&theme=react&area=true&order=5" height="250" width="600" alt="activity-graph graph"  />
     </td>
   </tr>
 </table>
