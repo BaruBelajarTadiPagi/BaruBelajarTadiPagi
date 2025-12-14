@@ -41,16 +41,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaruBelajarTadiPagi&radius=16&theme=react&area=true&order=5" height="250" width="600" alt="activity-graph graph"  />
 </p>
 
-## 🧠 Core Skills
-<table style="border-collapse: collapse; width:100%;">
-  <tr><td>Fullstack Web Development (Laravel & React JS)</td></tr>
-  <tr><td>REST API & Basic Realtime (WebSocket)</td></tr>
-  <tr><td>Database Design (ERD & Normalization)</td></tr>
-  <tr><td>System Analysis & Flowchart</td></tr>
-  <tr><td>Data Analysis from Existing Systems</td></tr>
-  <tr><td>Basic Android Development</td></tr>
-  <tr><td>Basic Hardware & Software Troubleshooting</td></tr>
-</table>
+## 🎯 Career Focus
+- Fullstack Web Development
+- Backend System & Database Design
+- Realtime Web Applications
+- System Integration & Optimization
+
+---
 
 ## 🏢 Experience
 
@@ -79,14 +76,6 @@
 - Validated athlete medal data to ensure accuracy
 - Designed medalist content for Instagram
 - Uploaded daily news as official event reports
-
----
-
-## 🎯 Career Focus
-- Fullstack Web Development
-- Backend System & Database Design
-- Realtime Web Applications
-- System Integration & Optimization
 
 ---
 
