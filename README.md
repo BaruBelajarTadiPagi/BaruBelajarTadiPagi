@@ -6,6 +6,15 @@
 
 <p align="center">Back End Developer & Fullstack Developer</p>
 
+<table>
+  <thead>
+    <tr>
+      <td>ini kolom judul 1</td>
+      <td>ini kolom judul 2</td>
+    </tr>
+  </thead>
+</table>
+
 <div id="user-content-toc">
     <ul align="center">
       <summary><h2 style="display: inline-block">Technologies & Tools 👨🏻‍💻</h2></summary>
