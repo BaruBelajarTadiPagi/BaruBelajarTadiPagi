@@ -1,19 +1,11 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hey there, I’m Aditya Brian Salsabil!</h1></summary>
+    <summary><h1 style="display: inline-block">Hey there👋, I’m Aditya Brian Salsabil!</h1></summary>
   </ul>
 </div>
 
-<p align="center">Back End Developer & Fullstack Developer</p>
-
-<table align="center">
-  <thead>
-    <tr>
-      <td>ini kolom judul 1</td>
-      <td>ini kolom judul 2</td>
-    </tr>
-  </thead>
-</table>
+<p align="center">Back End Developer & Fullstack Developer 💻 with experience in building web applications using **Laravel**, **React JS**, and **MySQL**. Familiar with real-world system integration, database design, and realtime features.
+</p>
 
 <div id="user-content-toc">
     <ul align="center">
@@ -27,27 +19,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaruBelajarTadiPagi&radius=16&theme=react&area=true&order=5" height="250" width="600" alt="activity-graph graph"  />
 </p>
 
-<hr>
-# 👋 Hi, I'm Aditya
-
-## 💻 Fullstack Developer
-Fullstack Developer with experience in building web applications using **Laravel**, **React JS**, and **MySQL**. Familiar with real-world system integration, database design, and realtime features.
-
----
-
-## 🚀 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
-
----
-
 ## 🧠 Core Skills
 <table style="border-collapse: collapse; width:100%;">
   <tr><td>Fullstack Web Development (Laravel & React JS)</td></tr>
@@ -59,7 +30,7 @@ Fullstack Developer with experience in building web applications using **Laravel
   <tr><td>Basic Hardware & Software Troubleshooting</td></tr>
 </table>
 
----
+<hr>
 
 ## 🏢 Experience
 
