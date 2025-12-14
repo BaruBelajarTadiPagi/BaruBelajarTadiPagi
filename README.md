@@ -6,14 +6,12 @@
 
 <p align="center">Back End Developer & Fullstack Developer</p>
 
-<div id="user-content-toc">
-  // left
+<div id="user-content-toc" class="container">
   <div class="float-left col-6"
     <ul align="center">
       <summary><h2 style="display: inline-block">Technologies & Tools 👨🏻‍💻</h2></summary>
     </ul>
   </div>
-  // right
   <div class="float-right col-6"
     <ul align="center">
       <summary><h2 style="display: inline-block">Technologies & Tools 👨🏻‍💻</h2></summary>
