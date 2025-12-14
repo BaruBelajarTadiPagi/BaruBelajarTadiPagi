@@ -1,19 +1,20 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hey there👋, I’m Aditya Brian Salsabil!</h1></summary>
+    <summary><h1 style="display: inline-block">Halo 👋, saya Aditya Brian Salsabil!</h1></summary>
   </ul>
 </div>
 
-<h3 align="center">Back End Developer & Fullstack Developer 💻 </h3>
+<h3 align="center">Backend Developer & Fullstack Developer 💻</h3>
 <p align="center">
-  with experience in building web applications using Laravel, React JS, and MySQL. Familiar with real-world system integration, database design, and realtime features.
+  Memiliki pengalaman dalam pengembangan aplikasi web menggunakan Laravel, React JS, dan MySQL. Terbiasa dengan integrasi sistem di dunia nyata, perancangan database, serta fitur realtime.
 </p>
 
 <div id="user-content-toc">
-    <ul align="center">
-      <summary><h2 style="display: inline-block">Technologies & Skils 👨🏻‍💻</h2></summary>
-    </ul>
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Teknologi & Keahlian 👨🏻‍💻</h2></summary>
+  </ul>
 </div>
+
 <table align="center" style="border-collapse: collapse; width:100%;">
   <tr>
     <td valign="top" width="50%">
@@ -25,61 +26,60 @@
     
   <td valign="top" width="50%">
     <h3>🧠 Core Skills</h3>
-      <ul>
-        <li>Fullstack Web Development (Laravel & React JS)</li>
-        <li>REST API & Basic Realtime (WebSocket)</li>
-        <li>Database Design (ERD & Normalization)</li>
-        <li>System Analysis & Flowchart</li>
-        <li>Data Analysis from Existing Systems</li>
-        <li>Basic Android Development</li>
-        <li>Basic Hardware & Software Troubleshooting</li>
-      </ul>
+    <ul>
+      <li>Pengembangan aplikasi web menggunakan Laravel & React JS</li>
+      <li>Pembuatan dan integrasi REST API serta fitur realtime (WebSocket)</li>
+      <li>Perancangan database (ERD & normalisasi data)</li>
+      <li>Analisis sistem dan pembuatan flowchart</li>
+      <li>Analisis data dari sistem yang sudah berjalan</li>
+      <li>Pengembangan aplikasi Android tingkat dasar</li>
+      <li>Perawatan dan troubleshooting hardware & software dasar</li>
+    </ul>
   </td>
   </tr>
 </table>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaruBelajarTadiPagi&radius=16&theme=react&area=true&order=5" height="250" width="600" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaruBelajarTadiPagi&radius=16&theme=react&area=true&order=5" height="250" width="600" alt="activity-graph graph" />
 </p>
 
-## 🎯 Career Focus
-- Fullstack Web Development
-- Backend System & Database Design
-- Realtime Web Applications
-- System Integration & Optimization
+## 🎯 Fokus Karier
+- Pengembangan Aplikasi Web
+- Perancangan Sistem & Database
+- Aplikasi Web Realtime
+- Integrasi dan Optimalisasi Sistem
 
 ---
 
-## 🏢 Experience
+## 🏢 Pengalaman
 
-### 💼 Fullstack Developer Intern – PT Sevenpion
-- 6-month internship focusing on **Laravel & MySQL**
-- Developed multiple projects:
-  - 2 Landing Pages
-  - 2 Letter Management Websites
-  - Realtime features using WebSocket
-- Built CMS feature for customizable wedding card templates
-- Assisted in system enhancement and feature development
+### 💼 Magang Pengembang Aplikasi – PT Sevenpion
+- Melaksanakan magang selama 6 bulan dengan fokus pada pengembangan website menggunakan Laravel & MySQL
+- Mengembangkan beberapa proyek berjalan, antara lain:
+  - 2 Landing Page
+  - 2 Website pembuatan surat
+  - Fitur realtime menggunakan WebSocket
+- Mengembangkan fitur CMS untuk pembuatan template kartu nikah secara kustom
+- Membantu pengembangan fitur serta peningkatan sistem yang sudah ada
 
 ---
 
-### 🏭 Staff Industrial Engineering & Manufacturing Execution System (MES)
-- Supported system digitalization through MES implementation
-- Ensured RFID integration for real-time production monitoring
-- Verified system data with physical production output
-- Troubleshot MES devices, RFID readers, and network issues
-- Monitored and corrected daily production data
+### 🏭 Staf Industrial Engineering & Manufacturing Execution System (MES)
+- Mendukung digitalisasi sistem melalui implementasi MES pada proses produksi
+- Memastikan integrasi RFID agar output produksi dapat dipantau secara realtime
+- Melakukan verifikasi kesesuaian data sistem dengan kondisi fisik produksi
+- Melakukan troubleshooting perangkat MES, RFID, dan jaringan
+- Monitoring serta perbaikan data produksi harian
 
 ---
 
 ### 🎽 Panitia PEPARNAS 2024 – Solo
-**Media Team NPCI Jawa Tengah (Vendor PT Sevenpion)**
-- Validated athlete medal data to ensure accuracy
-- Designed medalist content for Instagram
-- Uploaded daily news as official event reports
+**Tim Media NPCI Jawa Tengah (Vendor PT Sevenpion)**
+- Melakukan validasi data perolehan medali atlet untuk memastikan keakuratan
+- Membuat desain konten peraih medali untuk Instagram
+- Mengunggah berita harian sebagai laporan resmi kegiatan
 
 ---
 
-📫 **Let’s collaborate!**  
-Feel free to explore my repositories 🚀
-
-
+📫 **Mari berkolaborasi!**  
+Silakan jelajahi repository saya 🚀
