@@ -6,7 +6,7 @@
 
 <p align="center">Back End Developer & Fullstack Developer</p>
 
-<table style="th, td = none;">
+<table style="border-collapse: collapse; width:100%;">
   <thead>
     <tr>
       <td>ini kolom judul 1</td>
