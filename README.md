@@ -16,7 +16,7 @@
 </div>
 <table align="center" style="border-collapse: collapse; width:100%;">
   <tr>
-    <td valign="top" width="50%" style="padding-right:10px;">
+    <td valign="top" width="50%">
       <h3>🚀 Tech Stack</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=html,css,php,kotlin,laravel,androidstudio,mysql,react,postman,figma,xd,github,gitlab,vscode&perline=6" />
