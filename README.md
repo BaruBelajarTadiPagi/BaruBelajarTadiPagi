@@ -20,7 +20,7 @@
     <td valign="top" width="50%">
       <h3 align="center">🚀 Tech Stack</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,php,kotlin,laravel,androidstudio,mysql,react,postman,figma,xd,github,gitlab,vscode&perline=6" />
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,kotlin,laravel,androidstudio,mysql,react,postman,figma,xd,github,gitlab,vscode&perline=6" />
       </p>
     </td>
     
