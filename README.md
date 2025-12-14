@@ -50,37 +50,6 @@
 - Aplikasi Web Realtime
 - Integrasi dan Optimalisasi Sistem
 
----
-
-## 🏢 Pengalaman
-
-### 💼 Magang Pengembang Aplikasi – PT Sevenpion
-- Melaksanakan magang selama 6 bulan dengan fokus pada pengembangan website menggunakan Laravel & MySQL
-- Mengembangkan beberapa proyek berjalan, antara lain:
-  - 2 Landing Page
-  - 2 Website pembuatan surat
-  - Fitur realtime menggunakan WebSocket
-- Mengembangkan fitur CMS untuk pembuatan template kartu nikah secara kustom
-- Membantu pengembangan fitur serta peningkatan sistem yang sudah ada
-
----
-
-### 🏭 Staf Industrial Engineering & Manufacturing Execution System (MES)
-- Mendukung digitalisasi sistem melalui implementasi MES pada proses produksi
-- Memastikan integrasi RFID agar output produksi dapat dipantau secara realtime
-- Melakukan verifikasi kesesuaian data sistem dengan kondisi fisik produksi
-- Melakukan troubleshooting perangkat MES, RFID, dan jaringan
-- Monitoring serta perbaikan data produksi harian
-
----
-
-### 🎽 Panitia PEPARNAS 2024 – Solo
-**Tim Media NPCI Jawa Tengah (Vendor PT Sevenpion)**
-- Melakukan validasi data perolehan medali atlet untuk memastikan keakuratan
-- Membuat desain konten peraih medali untuk Instagram
-- Mengunggah berita harian sebagai laporan resmi kegiatan
-
----
 
 📫 **Mari berkolaborasi!**  
 Silakan jelajahi repository saya 🚀
